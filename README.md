@@ -1,13 +1,12 @@
 # typescript-scroll-hooks
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎉 I am currently working on a project with react, and I got help from the open source to implement the function of AOS(animation of scroll). When I used this function, it was in javascript, so there was some inconvenience in using it as typescript. so it is distributed with some modifications.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `yarn install`
 ### `yarn start`
 
 Runs the app in the development mode.\
